@@ -1,0 +1,10 @@
+Package: ICAL
+Type: Package
+Title: Model selection for model based clustering of annotated data
+Version: 1.0
+Date: 2015-05-15
+Author: Mélina Gallopin, Gilles Celeux, Florence Jaffrézic, Andrea Rau
+Maintainer: Mélina Gallopin <melina.gallopin@math.u-psud.fr>
+Imports: Rmixmod
+Description: This package implements a model selection criterion for model-based clustering of annotated data
+License: GPL (>= 3)
