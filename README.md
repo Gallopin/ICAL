@@ -1,6 +1,6 @@
 # ICAL package
 
-To install the ICAL package in a R package, type:
+To install the ICAL package in a R console, type:
 
 ```{r}
 install.packages("devtools")
